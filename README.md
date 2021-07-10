@@ -11,3 +11,5 @@ Love You Guys.
 I have now understand how to change branch (and add new branch also)
 I hope I learn some more things.
 
+I actually made the above changes in Master branch.
+I thought it was different branch Lol ":)"
